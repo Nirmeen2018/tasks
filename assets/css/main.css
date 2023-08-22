@@ -1,0 +1,26 @@
+.div1{
+    background-color: red;
+    width: 100px;
+    height:100px;
+    position: absolute;
+    z-index: 9;
+    
+}
+.div2{
+    background-color: blue;
+    width: 100px;
+    height:100px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+    z-index: 99;
+}
+.div3{
+    background-color: yellow;
+    width: 100px;
+    height:100px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 20px;
+    z-index: 99999;
+}
